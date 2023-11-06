@@ -3,6 +3,7 @@
 // 1) Create a string that says "You have received this message because you have been chosen to open an important vault." 
 // 2) Create Three Variables with different name.
 // 3) Assign numbers to the Variables with different arithmetic operators.
+// 4) Alert that variables combination.
 
 // Create string
 const message = "You have received this message because you have been chosen to open an important vault.Here is the secret combination:";
